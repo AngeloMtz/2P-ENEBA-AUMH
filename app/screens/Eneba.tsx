@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+<<<<<<<< HEAD:app/screens/Eneba.tsx
+=======
+>>>>>>> 82f8295 (calculadora)
 import React from "react";
 import { View, Text, TextInput, Image, ScrollView, StyleSheet, TouchableOpacity } from "react-native";
 import { Ionicons } from "@expo/vector-icons"; // Asegúrate de instalar @expo/vector-icons
@@ -180,4 +184,10 @@ const styles = StyleSheet.create({
         marginLeft: 220,
         marginTop:20
     },
+<<<<<<< HEAD
 });
+========
+>>>>>>>> 82f8295 (calculadora):app/screens/Login.tsx
+=======
+});
+>>>>>>> 82f8295 (calculadora)
